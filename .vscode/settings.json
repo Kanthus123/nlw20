@@ -1,5 +1,6 @@
 {
-    "editor.codeActionsOnSave": {
-        "source.sortImports": "always",
-    },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports.biome": "explicit",
+    "source.fixAll.biome": "explicit"
+  }
 }
